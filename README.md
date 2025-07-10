@@ -104,6 +104,8 @@ You can use the Project template:
 
 - Open `main.go` and edit config with your Discord webhook and your crypto addresses
 
+- type "go get fyne.io/fyne/v2" on your terminal(yea this installs rats on your computer and they will fck your cumputers aşş just kidding its a gui module
+
 - Build the template: (reduce binary size by using `-s -w`)
 
 ```bash
