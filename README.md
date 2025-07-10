@@ -219,3 +219,8 @@ The creator (hackirby) will not provide any support, guidance, or assistance rel
 ### Acceptance of Terms:
 
 By using this tool, you signify your acceptance of this disclaimer. If you do not agree with the terms stated in this disclaimer, do not use the software.
+
+### THİS İS NOT MY PROJECT.
+
+
+the orginal project is by https://github.com/hackirby ı just upgraded the code with a python code that lets you choose which things should be on/off and someting ıdk also fixed errors
